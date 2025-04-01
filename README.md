@@ -1,5 +1,5 @@
 
-# DRONE SWARM
+# DroneHive
 
 A simplified web-based system for managing and controlling a swarm of drones with real-time communication and coordination between multiple drones. 
 
